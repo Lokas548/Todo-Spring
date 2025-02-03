@@ -1,0 +1,74 @@
+body{
+    max-width: 100%;
+    max-height: 100%;
+    background: #1E293B;
+    background-size: cover;
+}
+
+
+.main{
+    display: block;
+    padding-top: 20%;
+    padding-left: 10%;
+    padding-right: 10%;
+    max-width: 100%;
+    max-height: 100%;
+    text-align: center;
+    align-items: center;
+}
+
+.add{
+    width: 30%;
+    height: 41px;
+    font-size: 19px;
+    background-color: #0D9488;
+    color: white;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 10px;
+    text-decoration: none;
+
+}
+
+.task{
+    display: block;
+    margin-top: 3%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 20px;
+    color: white;
+    list-style: inherit;
+
+}
+
+.header{
+    color: white;
+    text-align: center;
+    margin-left: 8%;
+}
+
+.sub{
+    color: floralwhite;
+    font-size: 25px;
+}
+
+.todos{
+    display: inline;
+}
+
+.done{
+    display: block;
+    width: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #0D9488;
+    border-radius: 10px;
+    color: white;
+}
+
+.newTodo{
+    border-radius: 5px;
+    height: 20px;
+    margin-left:10%;
+    margin-top: 2%;
+}
